@@ -1,5 +1,5 @@
 {
     "sql_patterns": ["/select.*from/i", "/union.*select/i"],
     "xss_patterns": ["/<script.*?>.*<\/script>/i"],
-    "common_attack_patterns": ["/etc/*/i", "/base64_decode/i"]
+    "common_attack_patterns": ["/wo-login"]
 }
